@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body {
+    background-image:url("imagenes/conjuntodama1.png");
+       }
+       body{
+        background-color:rgb(165, 220, 196);
+    }
+    footer{
+      background-color: rgb(182, 137, 225);
+    }
+    main{background-color: rgb(240, 240, 201);}
+    main{width: 100%;}
+    
